@@ -1,10 +1,23 @@
-#welcome{
+body{
+  width: 100vw;
+  text-align: center;
+}
+#welcome-section{
   height:100vh;
   margin-top: 80px;
 }
 #viewport{
+  height:100vh;
   position:absolute;
   top: 0;
   left: 0;
 }
-#
+#projects{
+  height: 50vh;
+  width: 100vw;
+  background-color: blue;
+}
+#profile-link{
+  height: 20vh;
+  background-color: red;
+}
